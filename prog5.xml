@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type = "text/css" href="prog5.css"?>
+<students>
+	<student>
+		<usn> USN : 4VV16CS044 </usn>
+		<name> NAME : Adithi K </name>
+		<clg> COLLEGE : VVCE </clg>
+		<brnch> BRANCH : CSE </brnch>
+		<yoj> YOJ : 2016 </yoj>
+		<email> EMAIL : adithikrishnan@yahoo.co.in</email>
+	</student>
+	<student>
+		<usn> USN : 4VV16CS023 </usn>
+		<name> NAME : Chaithra Bekal </name>
+		<clg> COLLEGE : VVCE </clg>
+		<brnch> BRANCH : CSE </brnch>
+		<yoj> YOJ : 2016 </yoj>
+		<email> EMAIL : chaithra@gmail.com</email>
+	</student>
+	<student>
+		<usn> USN : 4VV16CS016 </usn>
+		<name> NAME : Avani H S </name>
+		<clg> COLLEGE : VVCE </clg>
+		<brnch> BRANCH : CSE </brnch>
+		<yoj> YOJ : 2016 </yoj>
+		<email> EMAIL : avanirao1811@gmail.com</email>
+	</student>
+	<student>
+		<usn> USN : 4VV16CS011 </usn>
+		<name> NAME : Anushree J Rao </name>
+		<clg> COLLEGE : VVCE </clg>
+		<brnch> BRANCH : CSE </brnch>
+		<yoj> YOJ : 2016 </yoj>
+		<email> EMAIL : anushreerao.buff@gmail.com</email>
+	</student>
+</students>

@@ -1,0 +1,29 @@
+usn{
+	color : black;
+	font-size : 30px;
+	font-style : bold;
+	font-family : times new roman, sans-serif, arial;
+	display:block;
+	text-align : center;
+}
+
+name{
+	color : blue;
+	font-size : 20px;
+	font-style : bold;
+	font-family : times new roman, sans-serif, arial;
+	display:block;
+	text-align : center;
+}
+
+clg, yoj, brnch, email{
+	color : black;
+	font-size : 15px;
+	font-family : times new roman, sans-serif, arial;
+	display:block;
+	text-align : center;
+}
+
+student, students{
+	background-color : orange;
+}

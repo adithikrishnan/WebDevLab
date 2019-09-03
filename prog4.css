@@ -1,0 +1,24 @@
+.inp{
+	background-color: white;
+	color: black;
+	width : 500px;
+	height : 30px;
+	font-size : 15pt;
+	border : 1 px solid black;
+}
+
+.btn{
+	background-color: green;
+	color : white;
+	width : 90pt;
+	height : 30pt;
+	font-size : 15pt;
+	border : 2px solid black;
+}
+
+#result{
+	background-color : yellow;
+	color : black;
+	font-size : 20pt;	
+	height : 180px;
+}
