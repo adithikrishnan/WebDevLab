@@ -1,5 +1,5 @@
 <?php
 date_default_timezone_set('Asia/Kolkata');
-$date = date('dd/mm/YYYY HH:ii:ss a', time());
+$date = date('d/m/Y H:i:s a', time());
 echo $date;
 ?>
