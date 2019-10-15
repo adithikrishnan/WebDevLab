@@ -21,10 +21,10 @@ sum, product, difference and quotient.
 7. Write a PHP program to display a digital clock which displays the current time of the server.
 
 8. Write the PHP programs to do the following:
-      a. Implement simple calculator operations.
+      a. Implement simple calculator operations. (prog8a.php file)
       b. Find the transpose of a matrix.
       c. Multiplication of two matrices.
-      d. Addition of two matrices. 
+      d. Addition of two matrices. (b,c,d in prog8b.php file)
 
 9. Write a PHP program named states.py that declares a variable states with value
 "Mississippi Alabama Texas Massachusetts Kansas". write a PHP program that does the following:
